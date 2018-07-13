@@ -10,8 +10,8 @@ class MyApp extends StatelessWidget
   {
     return MaterialApp
     (
-      title: 'Dashboard',
-      theme: ThemeData(primarySwatch: Colors.blue),
+      title: 'codename-big-mootz',
+      theme: ThemeData(primarySwatch: Colors.grey),
       home: MainPage(),
     );
   }
